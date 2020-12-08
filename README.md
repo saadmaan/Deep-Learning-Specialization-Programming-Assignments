@@ -1,4 +1,3 @@
-# From-scratch-to-highly-functional-frameworks-in-Deep-Learning
 ## Certificates of Completion :
 
 ## Course 1: [Neural Networks and Deep Learning](https://coursera.org/share/e06632283111ec78272e21bc57b22dc5)
